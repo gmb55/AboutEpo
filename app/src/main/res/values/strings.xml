@@ -1,5 +1,26 @@
 <resources>
     <string name="app_name">AboutPet</string>
     <string name="text_name">Epomis</string>
+    <string name="bio_text">
+        \n\nEpomis beetles are often metallic blue or green colored,
+        \n\n
+        with a striking yellow-orange rim on the elytra and mostly yellow-colored legs and antennae.
+        \n\n
+        They are 15–26 millimetres (0.59–1.02 in) in length.
+        \n\n
+        They can be distinguished from the closely related genus Chlaenius by the short (less than three times as long as wide)
+        and triangular labial palps.
+        \n\n
+        The larvae reach a body length of up to 20 millimetres (0.79 in),
+        they are white or yellow colored, with black and orange markings.
+        \n\n
+        Like many ground beetle larvae they are elongated with two extensions (Urogomphi) at the rear end.
+        \n\n
+        They have characteristic double-hooked mandibles.
+        \n\n
+        Larvae of the two European species can be distinguished by their color pattern.
+    </string>
     <string name="yellow_star">Yellow star</string>
+
+
 </resources>
